@@ -1,15 +1,15 @@
 import React from 'react';
 import Navigation from '../components/layout/Navigation';
 
-const Contact = () => {
+const Competence = () => {
     return (
-        <div className='contact'>
+        <div className='competence'>
             <Navigation />
-            <div className="contactContent">
-                qsdqsd
+            <div className="competenceContent">
+                
             </div>
         </div>
     );
 };
 
-export default Contact;
+export default Competence;
